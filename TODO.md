@@ -4,7 +4,7 @@ Project for PRJ321
 
 ## Todo
 - Xem va chinh lai database Pleaseeee :(((
-- Them cac 
+- Viet them ten cac trang, cac servlet vao day 
 ### Main function 
 ### 1. Web page
 #### Header
@@ -12,7 +12,8 @@ Project for PRJ321
 - [ ] tim kiem  + nut search
 - [ ] *option* search theo category 
 - [ ] Hien cart & so item trong cart
-- [ ] Dang nhap/ dang ki
+- [ ] Button Dang nhap
+- [ ] Button Dang ki ( *option* khong hien neu da dang nhap )
 #### Footer
 - [ ] Thong tin ( dia chi, sdt,...)
 #### Trang Shopping 
@@ -26,7 +27,7 @@ Project for PRJ321
 - [ ] display cac thong tin cua product (img, description, so luong con lai)
 - [ ]  button mua ngay ( luu san pham vao cookies )
 - [ ] *option* chon so luong
-- *option* display duong dan den san pham
+- *option* show duong dan den san pham 
    >vidu : Trang chủ / 2. Nhà cửa & Đời sống / Nội thất phòng ngủ / Màn Tuyn Đơn 1m
 
 #### Trang dat hang
@@ -35,8 +36,9 @@ Project for PRJ321
 #### Trang thanh toan
 - *viet them vao day* ( chi danh cho nguoi da dang nhap )
 #### Trang login 
-
+- *viet them*
 #### Trang dang ki
+- *viet them*
 ### 2. Admin page
 - *viet them vao day* Lam sau
 ### 3. Database
