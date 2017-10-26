@@ -37,6 +37,7 @@ Project for PRJ321
 #### Trang dang ki
 
 ### 2. Database
+- #### Chinh lai database cho phu hop 
 - #### Insert them gia tri vao cac bang trong db
 
 - *Tao procedure ( option)*  
