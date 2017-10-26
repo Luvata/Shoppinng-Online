@@ -3,6 +3,8 @@
 Project for PRJ321
 
 ## Todo
+- Xem va chinh lai database Pleaseeee :(((
+- Them cac 
 ### Main function 
 ### 1. Web page
 #### Header
@@ -35,8 +37,9 @@ Project for PRJ321
 #### Trang login 
 
 #### Trang dang ki
-
-### 2. Database
+### 2. Admin page
+- *viet them vao day* Lam sau
+### 3. Database
 - #### Chinh lai database cho phu hop 
 - #### Insert them gia tri vao cac bang trong db
 
